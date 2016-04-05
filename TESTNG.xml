@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testngTest">
+    <test name="test1">
+        <parameter name="name" value="roger" />
+        <parameter name="age" value="27" />
+        <classes>
+            <class name="firstTestNG.FirstNGTest" />
+        </classes>
+    </test>
+</suite>
